@@ -14,3 +14,5 @@ This research investigates two critical, related problems in the use of generati
 
 Repository Contents:
 All of my data, resume versions, and AI prompts. Technically, you could take all of this and perfectly replicate my study
+
+Data preserved with Zenodo as well: https://doi.org/10.5281/zenodo.15815581
