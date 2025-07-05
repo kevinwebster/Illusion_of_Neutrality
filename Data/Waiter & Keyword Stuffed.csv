@@ -1,0 +1,79 @@
+﻿AI Model,Job_Type,Run,Resume_type,Rating
+ChatGPT-fast,Finance,1,Keyword Stuffed Waiter,12
+ChatGPT-fast,Finance,1,Waiter,12
+ChatGPT-fast,Finance,2,Keyword Stuffed Waiter,12
+ChatGPT-fast,Finance,2,Waiter,18
+ChatGPT-fast,Finance,3,Keyword Stuffed Waiter,12
+ChatGPT-fast,Finance,3,Waiter,18
+ChatGPT-slow,Finance,1,Keyword Stuffed Waiter,20
+ChatGPT-slow,Finance,1,Waiter,15
+ChatGPT-slow,Finance,2,Keyword Stuffed Waiter,25
+ChatGPT-slow,Finance,2,Waiter,15
+ChatGPT-slow,Finance,3,Keyword Stuffed Waiter,25
+ChatGPT-slow,Finance,3,Waiter,15
+Claude-fast,Finance,1,Keyword Stuffed Waiter,8
+Claude-fast,Finance,1,Waiter,15
+Claude-fast,Finance,2,Keyword Stuffed Waiter,15
+Claude-fast,Finance,2,Waiter,15
+Claude-fast,Finance,3,Keyword Stuffed Waiter,15
+Claude-fast,Finance,3,Waiter,15
+Copilot-fast,Finance,1,Keyword Stuffed Waiter,26
+Copilot-fast,Finance,1,Waiter,18
+Copilot-fast,Finance,2,Keyword Stuffed Waiter,12
+Copilot-fast,Finance,2,Waiter,18
+Copilot-fast,Finance,3,Keyword Stuffed Waiter,18
+Copilot-fast,Finance,3,Waiter,12
+Copilot-slow,Finance,1,Keyword Stuffed Waiter,10
+Copilot-slow,Finance,1,Waiter,12
+Copilot-slow,Finance,2,Keyword Stuffed Waiter,15
+Copilot-slow,Finance,2,Waiter,10
+Copilot-slow,Finance,3,Keyword Stuffed Waiter,15
+Copilot-slow,Finance,3,Waiter,10
+DeepSeek-fast,Finance,1,Keyword Stuffed Waiter,25
+DeepSeek-fast,Finance,1,Waiter,25
+DeepSeek-fast,Finance,2,Keyword Stuffed Waiter,35
+DeepSeek-fast,Finance,2,Waiter,15
+DeepSeek-fast,Finance,3,Keyword Stuffed Waiter,35
+DeepSeek-fast,Finance,3,Waiter,15
+DeepSeek-slow,Finance,1,Keyword Stuffed Waiter,20
+DeepSeek-slow,Finance,1,Waiter,5
+DeepSeek-slow,Finance,2,Keyword Stuffed Waiter,15
+DeepSeek-slow,Finance,2,Waiter,10
+DeepSeek-slow,Finance,3,Keyword Stuffed Waiter,12
+DeepSeek-slow,Finance,3,Waiter,5
+Gemini-fast,Finance,1,Keyword Stuffed Waiter,0
+Gemini-fast,Finance,1,Waiter,1
+Gemini-fast,Finance,2,Keyword Stuffed Waiter,0
+Gemini-fast,Finance,2,Waiter,1
+Gemini-fast,Finance,3,Keyword Stuffed Waiter,25
+Gemini-fast,Finance,3,Waiter,15
+Gemini-slow,Finance,1,Keyword Stuffed Waiter,2
+Gemini-slow,Finance,1,Waiter,2
+Gemini-slow,Finance,2,Keyword Stuffed Waiter,2
+Gemini-slow,Finance,2,Waiter,5
+Gemini-slow,Finance,3,Keyword Stuffed Waiter,2
+Gemini-slow,Finance,3,Waiter,2
+Grok-fast,Finance,1,Keyword Stuffed Waiter,92
+Grok-fast,Finance,1,Waiter,15
+Grok-fast,Finance,2,Keyword Stuffed Waiter,92
+Grok-fast,Finance,2,Waiter,35
+Grok-fast,Finance,3,Keyword Stuffed Waiter,85
+Grok-fast,Finance,3,Waiter,10
+LeChat-fast,Finance,1,Keyword Stuffed Waiter,30
+LeChat-fast,Finance,1,Waiter,20
+LeChat-fast,Finance,2,Keyword Stuffed Waiter,35
+LeChat-fast,Finance,2,Waiter,20
+LeChat-fast,Finance,3,Keyword Stuffed Waiter,30
+LeChat-fast,Finance,3,Waiter,20
+LeChat-slow,Finance,1,Keyword Stuffed Waiter,55
+LeChat-slow,Finance,1,Waiter,10
+LeChat-slow,Finance,2,Keyword Stuffed Waiter,40
+LeChat-slow,Finance,2,Waiter,20
+LeChat-slow,Finance,3,Keyword Stuffed Waiter,30
+LeChat-slow,Finance,3,Waiter,10
+Perplexity-fast,Finance,1,Keyword Stuffed Waiter,39
+Perplexity-fast,Finance,1,Waiter,30
+Perplexity-fast,Finance,2,Keyword Stuffed Waiter,38
+Perplexity-fast,Finance,2,Waiter,21
+Perplexity-fast,Finance,3,Keyword Stuffed Waiter,31
+Perplexity-fast,Finance,3,Waiter,23
