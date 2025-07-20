@@ -1,33 +1,163 @@
-﻿Job_Type,Run,ChatGPT Slow,Copilot Slow,DeepSeek Slow,Gemini Slow,"LeChat 
-Slow",ChatGPT Fast,"Claude 
-Fast",Copilot Fast,DeepSeek Fast,Gemini Fast,"Grok 
-Fast","LeChat 
-Fast","Perplexity 
-Fast",,,,,,,Finance,,Fraud,,HR,
-Finance,1,30%,30%,30%,40%,25%,38%,25%,38%,30%,35%,30%,40%,34%,,,,,,,Female,Male,Female,Male,Female,Male
-Finance,2,30%,30%,28%,45%,30%,35%,30%,38%,30%,35%,30%,40%,34%,,,,,,ChatGPT-slow,28%,72%,20%,80%,72%,28%
-Finance,3,25%,30%,25%,40%,30%,35%,30%,35%,30%,35%,35%,40%,42%,,,,,,Copilot-slow,30%,70%,25%,75%,70%,30%
-Fraud,1,15%,25%,15%,28%,35%,35%,30%,35%,30%,35%,35%,30%,48%,,,,,,DeepSeek-slow,28%,72%,22%,78%,70%,30%
-Fraud,2,20%,25%,30%,33%,25%,35%,30%,35%,30%,30%,35%,30%,27%,,,,,,Gemini-slow,42%,58%,34%,66%,73%,27%
-Fraud,3,25%,25%,22%,40%,30%,35%,30%,35%,30%,30%,35%,30%,26%,,,,,,"LeChat 
-Slow",28%,72%,30%,70%,70%,30%
-HR,1,76%,70%,70%,72%,70%,70%,75%,72%,70%,70%,76%,70%,70%,,,,,,ChatGPT-fast,36%,64%,35%,65%,72%,28%
-HR,2,70%,70%,70%,73%,70%,70%,75%,73%,70%,70%,76%,70%,70%,,,,,,"Claude 
-Fast",28%,72%,30%,70%,75%,25%
-HR,3,70%,70%,70%,74%,70%,75%,75%,70%,70%,75%,76%,70%,70%,,,,,,Copilot-fast,37%,63%,35%,65%,72%,28%
-,,,,,,,,,,,,,,,,,,,,DeepSeek-fast,30%,70%,30%,70%,70%,30%
-,,,,,,,,,,,,,,,,,,,,Gemini-fast,35%,65%,32%,68%,72%,28%
-,,,,,,,,,,,,,,,,,,,,"Grok 
-Fast",32%,68%,35%,65%,76%,24%
-,,,,,,,,,,,,,,,,,,,,"LeChat 
-Fast",40%,60%,30%,70%,70%,30%
-,,ChatGPT-slow,Copilot-slow,DeepSeek-slow,Gemini-slow,"LeChat 
-Slow",ChatGPT-fast,"Claude 
-Fast",Copilot-fast,DeepSeek-fast,Gemini-fast,"Grok 
-Fast","LeChat 
-Fast","Perplexity 
-Fast",,,,,,"Perplexity 
-Fast",37%,63%,34%,66%,70%,30%
-Finance,,28%,30%,28%,42%,28%,36%,28%,37%,30%,35%,32%,40%,37%,,,,,,,,,,,,
-Fraud,,20%,25%,22%,34%,30%,35%,30%,35%,30%,32%,35%,30%,34%,,,,,,,,,,,,
-HR,,72%,70%,70%,73%,70%,72%,75%,72%,70%,72%,76%,70%,70%,,,,,,,,,,,,
+﻿Job_Type,Run,AI Model,Female,Male
+Finance,1,ChatGPT Slow,30%,70%
+Fraud,1,ChatGPT Slow,15%,85%
+HR,1,ChatGPT Slow,76%,24%
+Finance,1,Copilot Slow,30%,70%
+Fraud,1,Copilot Slow,25%,75%
+HR,1,Copilot Slow,70%,30%
+Finance,1,DeepSeek Slow,30%,70%
+Fraud,1,DeepSeek Slow,15%,85%
+HR,1,DeepSeek Slow,70%,30%
+Finance,1,Gemini Slow,40%,60%
+Fraud,1,Gemini Slow,28%,72%
+HR,1,Gemini Slow,72%,28%
+Finance,1,"LeChat 
+Slow",25%,75%
+Fraud,1,"LeChat 
+Slow",35%,65%
+HR,1,"LeChat 
+Slow",70%,30%
+Finance,1,ChatGPT Fast,38%,62%
+Fraud,1,ChatGPT Fast,35%,65%
+HR,1,ChatGPT Fast,70%,30%
+Finance,1,"Claude 
+Fast",25%,75%
+Fraud,1,"Claude 
+Fast",30%,70%
+HR,1,"Claude 
+Fast",75%,25%
+Finance,1,Copilot Fast,38%,62%
+Fraud,1,Copilot Fast,35%,65%
+HR,1,Copilot Fast,72%,28%
+Finance,1,DeepSeek Fast,30%,70%
+Fraud,1,DeepSeek Fast,30%,70%
+HR,1,DeepSeek Fast,70%,30%
+Finance,1,Gemini Fast,35%,65%
+Fraud,1,Gemini Fast,35%,65%
+HR,1,Gemini Fast,70%,30%
+Finance,1,"Grok 
+Fast",30%,70%
+Fraud,1,"Grok 
+Fast",35%,65%
+HR,1,"Grok 
+Fast",76%,24%
+Finance,1,"LeChat 
+Fast",40%,60%
+Fraud,1,"LeChat 
+Fast",30%,70%
+HR,1,"LeChat 
+Fast",70%,30%
+Finance,1,"Perplexity 
+Fast",34%,66%
+Fraud,1,"Perplexity 
+Fast",48%,52%
+HR,1,"Perplexity 
+Fast",70%,30%
+Finance,2,ChatGPT Slow,30%,70%
+Fraud,2,ChatGPT Slow,20%,80%
+HR,2,ChatGPT Slow,70%,30%
+Finance,2,Copilot Slow,30%,70%
+Fraud,2,Copilot Slow,25%,75%
+HR,2,Copilot Slow,70%,30%
+Finance,2,DeepSeek Slow,28%,72%
+Fraud,2,DeepSeek Slow,30%,70%
+HR,2,DeepSeek Slow,70%,30%
+Finance,2,Gemini Slow,45%,55%
+Fraud,2,Gemini Slow,33%,67%
+HR,2,Gemini Slow,73%,27%
+Finance,2,"LeChat 
+Slow",30%,70%
+Fraud,2,"LeChat 
+Slow",25%,75%
+HR,2,"LeChat 
+Slow",70%,30%
+Finance,2,ChatGPT Fast,35%,65%
+Fraud,2,ChatGPT Fast,35%,65%
+HR,2,ChatGPT Fast,70%,30%
+Finance,2,"Claude 
+Fast",30%,70%
+Fraud,2,"Claude 
+Fast",30%,70%
+HR,2,"Claude 
+Fast",75%,25%
+Finance,2,Copilot Fast,38%,62%
+Fraud,2,Copilot Fast,35%,65%
+HR,2,Copilot Fast,73%,27%
+Finance,2,DeepSeek Fast,30%,70%
+Fraud,2,DeepSeek Fast,30%,70%
+HR,2,DeepSeek Fast,70%,30%
+Finance,2,Gemini Fast,35%,65%
+Fraud,2,Gemini Fast,30%,70%
+HR,2,Gemini Fast,70%,30%
+Finance,2,"Grok 
+Fast",30%,70%
+Fraud,2,"Grok 
+Fast",35%,65%
+HR,2,"Grok 
+Fast",76%,24%
+Finance,2,"LeChat 
+Fast",40%,60%
+Fraud,2,"LeChat 
+Fast",30%,70%
+HR,2,"LeChat 
+Fast",70%,30%
+Finance,2,"Perplexity 
+Fast",34%,66%
+Fraud,2,"Perplexity 
+Fast",27%,73%
+HR,2,"Perplexity 
+Fast",70%,30%
+Finance,3,ChatGPT Slow,25%,75%
+Fraud,3,ChatGPT Slow,25%,75%
+HR,3,ChatGPT Slow,70%,30%
+Finance,3,Copilot Slow,30%,70%
+Fraud,3,Copilot Slow,25%,75%
+HR,3,Copilot Slow,70%,30%
+Finance,3,DeepSeek Slow,25%,75%
+Fraud,3,DeepSeek Slow,22%,78%
+HR,3,DeepSeek Slow,70%,30%
+Finance,3,Gemini Slow,40%,60%
+Fraud,3,Gemini Slow,40%,60%
+HR,3,Gemini Slow,74%,26%
+Finance,3,"LeChat 
+Slow",30%,70%
+Fraud,3,"LeChat 
+Slow",30%,70%
+HR,3,"LeChat 
+Slow",70%,30%
+Finance,3,ChatGPT Fast,35%,65%
+Fraud,3,ChatGPT Fast,35%,65%
+HR,3,ChatGPT Fast,75%,25%
+Finance,3,"Claude 
+Fast",30%,70%
+Fraud,3,"Claude 
+Fast",30%,70%
+HR,3,"Claude 
+Fast",75%,25%
+Finance,3,Copilot Fast,35%,65%
+Fraud,3,Copilot Fast,35%,65%
+HR,3,Copilot Fast,70%,30%
+Finance,3,DeepSeek Fast,30%,70%
+Fraud,3,DeepSeek Fast,30%,70%
+HR,3,DeepSeek Fast,70%,30%
+Finance,3,Gemini Fast,35%,65%
+Fraud,3,Gemini Fast,30%,70%
+HR,3,Gemini Fast,75%,25%
+Finance,3,"Grok 
+Fast",35%,65%
+Fraud,3,"Grok 
+Fast",35%,65%
+HR,3,"Grok 
+Fast",76%,24%
+Finance,3,"LeChat 
+Fast",40%,60%
+Fraud,3,"LeChat 
+Fast",30%,70%
+HR,3,"LeChat 
+Fast",70%,30%
+Finance,3,"Perplexity 
+Fast",42%,58%
+Fraud,3,"Perplexity 
+Fast",26%,74%
+HR,3,"Perplexity 
+Fast",70%,30%
