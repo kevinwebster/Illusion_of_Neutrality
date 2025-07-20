@@ -1,0 +1,98 @@
+# -*- coding: utf-8 -*-
+"""
+Analysis Notebook for "Fairness Is Not Enough" - Experiment 1
+
+This notebook replicates the statistical analysis for Appendix B, Item 2.
+It calculates the baseline reliability (Coefficient of Variation) for each
+AI model using only the control group (redacted) résumés.
+"""
+
+# =============================================================================
+# 1. SETUP: LOAD LIBRARIES AND DATA
+# =============================================================================
+import pandas as pd
+import numpy as np
+
+# --- Load the dataset ---
+# In Google Colab, you must first upload your "Combined Data.csv" file.
+try:
+    df = pd.read_csv('Combined Data.csv')
+    print("Successfully loaded 'Combined Data.csv'")
+    print("Data shape:", df.shape)
+
+    # --- Standardize column names to lowercase for consistency ---
+    df.columns = [col.lower() for col in df.columns]
+    print("Standardized column headers:", df.columns.tolist())
+
+except FileNotFoundError:
+    print("Error: 'Combined Data.csv' not found.")
+    print("Please make sure you have uploaded the file to your Google Colab environment.")
+    df = pd.DataFrame() # Create an empty dataframe to avoid further errors
+
+# =============================================================================
+# 2. DATA PREPARATION
+# =============================================================================
+if not df.empty:
+    # --- Feature Engineering ---
+    # Combine 'ai' and 'speed' into a single 'ai_model' column.
+    df['ai_model'] = df['ai'] + '-' + df['speed']
+    
+    # --- Correctly Identify and Label the Control Group ---
+    # The control group is identified by having a blank/null value in the 'race' column.
+    control_mask = df['race'].isnull()
+    df.loc[control_mask, 'race'] = 'Control'
+    
+    # Let's confirm that we found the control rows.
+    num_control_rows = df['race'].value_counts().get('Control', 0)
+    print(f"\nFound and labeled {num_control_rows} control rows.")
+
+    print("\n--- Data after preparation ---")
+    # Display a sample of rows to verify the new columns.
+    print(df[['ai_model', 'job_type', 'rating', 'race']].sample(5))
+
+
+# =============================================================================
+# 3. ANALYSIS 2: BASELINE RELIABILITY (COEFFICIENT OF VARIATION)
+# =============================================================================
+# This section replicates Appendix B, Item 2.
+# It calculates the Coefficient of Variation (CV) for the control group to measure
+# how consistent each model is when no demographic signals are present.
+# A lower CV means higher reliability.
+
+if not df.empty and num_control_rows > 0:
+    print("\n\n--- Analysis 2: Baseline Reliability (CV) ---")
+    
+    # Filter for only the control group data
+    control_df = df[df['race'] == 'Control'].copy()
+    
+    # Group by model and job type, then calculate mean and std dev
+    reliability_results = control_df.groupby(['ai_model', 'job_type'])['rating'].agg(['mean', 'std']).reset_index()
+    
+    # --- Rename columns to match your requested output ---
+    reliability_results.rename(columns={
+        'ai_model': 'AI Model',
+        'job_type': 'Job Type',
+        'mean': 'Mean Rating',
+        'std': 'St Dev'
+    }, inplace=True)
+
+    # --- Calculate Coefficient of Variation (CV) in percent ---
+    # CV = (Standard Deviation / Mean) * 100
+    # We add a small epsilon to the mean to prevent division by zero errors
+    epsilon = 1e-9
+    reliability_results['Consistency (CV %)'] = (reliability_results['St Dev'] / (reliability_results['Mean Rating'] + epsilon)) * 100
+    
+    # Sort for better readability
+    reliability_results = reliability_results.sort_values(by=['AI Model', 'Job Type']).reset_index(drop=True)
+    
+    print("Baseline Reliability Results for Control Résumés:")
+    print(reliability_results.to_string())
+    
+    # Highlight the finding from your paper
+    print("\nWorst case for inconsistency (Gemini-slow, Fraud):")
+    print(reliability_results[
+        (reliability_results['AI Model'] == 'Gemini-slow') &
+        (reliability_results['Job Type'] == 'Fraud')
+    ])
+
+print("\n\nAnalysis Complete.")
