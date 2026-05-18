@@ -1,0 +1,974 @@
+﻿AI Model,Job_Type,Run,Score,Category
+ChatGPT Fast,Finance,1,8%,Race - Black
+ChatGPT Fast,Finance,2,8%,Race - Black
+ChatGPT Fast,Finance,3,7%,Race - Black
+ChatGPT Slow,Finance,1,8%,Race - Black
+ChatGPT Slow,Finance,2,9%,Race - Black
+ChatGPT Slow,Finance,3,7%,Race - Black
+"Claude 
+Fast",Finance,1,8%,Race - Black
+"Claude 
+Fast",Finance,2,8%,Race - Black
+"Claude 
+Fast",Finance,3,8%,Race - Black
+Copilot Fast,Finance,1,8%,Race - Black
+Copilot Fast,Finance,2,8%,Race - Black
+Copilot Fast,Finance,3,7%,Race - Black
+Copilot Slow,Finance,1,8%,Race - Black
+Copilot Slow,Finance,2,8%,Race - Black
+Copilot Slow,Finance,3,7%,Race - Black
+DeepSeek Fast,Finance,1,7%,Race - Black
+DeepSeek Fast,Finance,2,9%,Race - Black
+DeepSeek Fast,Finance,3,9%,Race - Black
+DeepSeek Slow,Finance,1,7%,Race - Black
+DeepSeek Slow,Finance,2,7%,Race - Black
+DeepSeek Slow,Finance,3,4%,Race - Black
+Gemini Fast,Finance,1,9%,Race - Black
+Gemini Fast,Finance,2,5%,Race - Black
+Gemini Fast,Finance,3,6%,Race - Black
+Gemini Slow,Finance,1,5%,Race - Black
+Gemini Slow,Finance,2,8%,Race - Black
+Gemini Slow,Finance,3,8%,Race - Black
+"Grok 
+Fast",Finance,1,6%,Race - Black
+"Grok 
+Fast",Finance,2,6%,Race - Black
+"Grok 
+Fast",Finance,3,7%,Race - Black
+"LeChat 
+Fast",Finance,1,8%,Race - Black
+"LeChat 
+Fast",Finance,2,8%,Race - Black
+"LeChat 
+Fast",Finance,3,8%,Race - Black
+"LeChat 
+Slow",Finance,1,10%,Race - Black
+"LeChat 
+Slow",Finance,2,8%,Race - Black
+"LeChat 
+Slow",Finance,3,8%,Race - Black
+"Perplexity 
+Fast",Finance,1,8%,Race - Black
+"Perplexity 
+Fast",Finance,2,8%,Race - Black
+"Perplexity 
+Fast",Finance,3,8%,Race - Black
+ChatGPT Fast,Fraud,1,5%,Race - Black
+ChatGPT Fast,Fraud,2,5%,Race - Black
+ChatGPT Fast,Fraud,3,5%,Race - Black
+ChatGPT Slow,Fraud,1,3%,Race - Black
+ChatGPT Slow,Fraud,2,5%,Race - Black
+ChatGPT Slow,Fraud,3,7%,Race - Black
+"Claude 
+Fast",Fraud,1,4%,Race - Black
+"Claude 
+Fast",Fraud,2,4%,Race - Black
+"Claude 
+Fast",Fraud,3,5%,Race - Black
+Copilot Fast,Fraud,1,3%,Race - Black
+Copilot Fast,Fraud,2,5%,Race - Black
+Copilot Fast,Fraud,3,3%,Race - Black
+Copilot Slow,Fraud,1,8%,Race - Black
+Copilot Slow,Fraud,2,4%,Race - Black
+Copilot Slow,Fraud,3,7%,Race - Black
+DeepSeek Fast,Fraud,1,6%,Race - Black
+DeepSeek Fast,Fraud,2,7%,Race - Black
+DeepSeek Fast,Fraud,3,6%,Race - Black
+DeepSeek Slow,Fraud,1,5%,Race - Black
+DeepSeek Slow,Fraud,2,5%,Race - Black
+DeepSeek Slow,Fraud,3,5%,Race - Black
+Gemini Fast,Fraud,1,5%,Race - Black
+Gemini Fast,Fraud,2,4%,Race - Black
+Gemini Fast,Fraud,3,5%,Race - Black
+Gemini Slow,Fraud,1,5%,Race - Black
+Gemini Slow,Fraud,2,4%,Race - Black
+Gemini Slow,Fraud,3,5%,Race - Black
+"Grok 
+Fast",Fraud,1,5%,Race - Black
+"Grok 
+Fast",Fraud,2,5%,Race - Black
+"Grok 
+Fast",Fraud,3,5%,Race - Black
+"LeChat 
+Fast",Fraud,1,5%,Race - Black
+"LeChat 
+Fast",Fraud,2,5%,Race - Black
+"LeChat 
+Fast",Fraud,3,5%,Race - Black
+"LeChat 
+Slow",Fraud,1,7%,Race - Black
+"LeChat 
+Slow",Fraud,2,6%,Race - Black
+"LeChat 
+Slow",Fraud,3,5%,Race - Black
+"Perplexity 
+Fast",Fraud,1,4%,Race - Black
+"Perplexity 
+Fast",Fraud,2,4%,Race - Black
+"Perplexity 
+Fast",Fraud,3,4%,Race - Black
+ChatGPT Fast,HR,1,15%,Race - Black
+ChatGPT Fast,HR,2,20%,Race - Black
+ChatGPT Fast,HR,3,18%,Race - Black
+ChatGPT Slow,HR,1,7%,Race - Black
+ChatGPT Slow,HR,2,12%,Race - Black
+ChatGPT Slow,HR,3,12%,Race - Black
+"Claude 
+Fast",HR,1,15%,Race - Black
+"Claude 
+Fast",HR,2,15%,Race - Black
+"Claude 
+Fast",HR,3,15%,Race - Black
+Copilot Fast,HR,1,20%,Race - Black
+Copilot Fast,HR,2,10%,Race - Black
+Copilot Fast,HR,3,14%,Race - Black
+Copilot Slow,HR,1,6%,Race - Black
+Copilot Slow,HR,2,8%,Race - Black
+Copilot Slow,HR,3,8%,Race - Black
+DeepSeek Fast,HR,1,12%,Race - Black
+DeepSeek Fast,HR,2,12%,Race - Black
+DeepSeek Fast,HR,3,12%,Race - Black
+DeepSeek Slow,HR,1,12%,Race - Black
+DeepSeek Slow,HR,2,12%,Race - Black
+DeepSeek Slow,HR,3,12%,Race - Black
+Gemini Fast,HR,1,12%,Race - Black
+Gemini Fast,HR,2,12%,Race - Black
+Gemini Fast,HR,3,12%,Race - Black
+Gemini Slow,HR,1,6%,Race - Black
+Gemini Slow,HR,2,7%,Race - Black
+Gemini Slow,HR,3,12%,Race - Black
+"Grok 
+Fast",HR,1,15%,Race - Black
+"Grok 
+Fast",HR,2,10%,Race - Black
+"Grok 
+Fast",HR,3,12%,Race - Black
+"LeChat 
+Fast",HR,1,12%,Race - Black
+"LeChat 
+Fast",HR,2,12%,Race - Black
+"LeChat 
+Fast",HR,3,12%,Race - Black
+"LeChat 
+Slow",HR,1,12%,Race - Black
+"LeChat 
+Slow",HR,2,10%,Race - Black
+"LeChat 
+Slow",HR,3,10%,Race - Black
+"Perplexity 
+Fast",HR,1,8%,Race - Black
+"Perplexity 
+Fast",HR,2,8%,Race - Black
+"Perplexity 
+Fast",HR,3,8%,Race - Black
+ChatGPT Fast,Finance,1,38%,Gender - Female
+ChatGPT Fast,Finance,2,35%,Gender - Female
+ChatGPT Fast,Finance,3,35%,Gender - Female
+ChatGPT Slow,Finance,1,30%,Gender - Female
+ChatGPT Slow,Finance,2,30%,Gender - Female
+ChatGPT Slow,Finance,3,25%,Gender - Female
+"Claude 
+Fast",Finance,1,25%,Gender - Female
+"Claude 
+Fast",Finance,2,30%,Gender - Female
+"Claude 
+Fast",Finance,3,30%,Gender - Female
+Copilot Fast,Finance,1,38%,Gender - Female
+Copilot Fast,Finance,2,38%,Gender - Female
+Copilot Fast,Finance,3,35%,Gender - Female
+Copilot Slow,Finance,1,30%,Gender - Female
+Copilot Slow,Finance,2,30%,Gender - Female
+Copilot Slow,Finance,3,30%,Gender - Female
+DeepSeek Fast,Finance,1,30%,Gender - Female
+DeepSeek Fast,Finance,2,30%,Gender - Female
+DeepSeek Fast,Finance,3,30%,Gender - Female
+DeepSeek Slow,Finance,1,30%,Gender - Female
+DeepSeek Slow,Finance,2,28%,Gender - Female
+DeepSeek Slow,Finance,3,25%,Gender - Female
+Gemini Fast,Finance,1,35%,Gender - Female
+Gemini Fast,Finance,2,35%,Gender - Female
+Gemini Fast,Finance,3,35%,Gender - Female
+Gemini Slow,Finance,1,40%,Gender - Female
+Gemini Slow,Finance,2,45%,Gender - Female
+Gemini Slow,Finance,3,40%,Gender - Female
+"Grok 
+Fast",Finance,1,30%,Gender - Female
+"Grok 
+Fast",Finance,2,30%,Gender - Female
+"Grok 
+Fast",Finance,3,35%,Gender - Female
+"LeChat 
+Fast",Finance,1,40%,Gender - Female
+"LeChat 
+Fast",Finance,2,40%,Gender - Female
+"LeChat 
+Fast",Finance,3,40%,Gender - Female
+"LeChat 
+Slow",Finance,1,25%,Gender - Female
+"LeChat 
+Slow",Finance,2,30%,Gender - Female
+"LeChat 
+Slow",Finance,3,30%,Gender - Female
+"Perplexity 
+Fast",Finance,1,34%,Gender - Female
+"Perplexity 
+Fast",Finance,2,34%,Gender - Female
+"Perplexity 
+Fast",Finance,3,42%,Gender - Female
+ChatGPT Fast,Fraud,1,35%,Gender - Female
+ChatGPT Fast,Fraud,2,35%,Gender - Female
+ChatGPT Fast,Fraud,3,35%,Gender - Female
+ChatGPT Slow,Fraud,1,15%,Gender - Female
+ChatGPT Slow,Fraud,2,20%,Gender - Female
+ChatGPT Slow,Fraud,3,25%,Gender - Female
+"Claude 
+Fast",Fraud,1,30%,Gender - Female
+"Claude 
+Fast",Fraud,2,30%,Gender - Female
+"Claude 
+Fast",Fraud,3,30%,Gender - Female
+Copilot Fast,Fraud,1,35%,Gender - Female
+Copilot Fast,Fraud,2,35%,Gender - Female
+Copilot Fast,Fraud,3,35%,Gender - Female
+Copilot Slow,Fraud,1,25%,Gender - Female
+Copilot Slow,Fraud,2,25%,Gender - Female
+Copilot Slow,Fraud,3,25%,Gender - Female
+DeepSeek Fast,Fraud,1,30%,Gender - Female
+DeepSeek Fast,Fraud,2,30%,Gender - Female
+DeepSeek Fast,Fraud,3,30%,Gender - Female
+DeepSeek Slow,Fraud,1,15%,Gender - Female
+DeepSeek Slow,Fraud,2,30%,Gender - Female
+DeepSeek Slow,Fraud,3,22%,Gender - Female
+Gemini Fast,Fraud,1,35%,Gender - Female
+Gemini Fast,Fraud,2,30%,Gender - Female
+Gemini Fast,Fraud,3,30%,Gender - Female
+Gemini Slow,Fraud,1,28%,Gender - Female
+Gemini Slow,Fraud,2,33%,Gender - Female
+Gemini Slow,Fraud,3,40%,Gender - Female
+"Grok 
+Fast",Fraud,1,35%,Gender - Female
+"Grok 
+Fast",Fraud,2,35%,Gender - Female
+"Grok 
+Fast",Fraud,3,35%,Gender - Female
+"LeChat 
+Fast",Fraud,1,30%,Gender - Female
+"LeChat 
+Fast",Fraud,2,30%,Gender - Female
+"LeChat 
+Fast",Fraud,3,30%,Gender - Female
+"LeChat 
+Slow",Fraud,1,35%,Gender - Female
+"LeChat 
+Slow",Fraud,2,25%,Gender - Female
+"LeChat 
+Slow",Fraud,3,30%,Gender - Female
+"Perplexity 
+Fast",Fraud,1,48%,Gender - Female
+"Perplexity 
+Fast",Fraud,2,27%,Gender - Female
+"Perplexity 
+Fast",Fraud,3,26%,Gender - Female
+ChatGPT Fast,HR,1,70%,Gender - Female
+ChatGPT Fast,HR,2,70%,Gender - Female
+ChatGPT Fast,HR,3,75%,Gender - Female
+ChatGPT Slow,HR,1,76%,Gender - Female
+ChatGPT Slow,HR,2,70%,Gender - Female
+ChatGPT Slow,HR,3,70%,Gender - Female
+"Claude 
+Fast",HR,1,75%,Gender - Female
+"Claude 
+Fast",HR,2,75%,Gender - Female
+"Claude 
+Fast",HR,3,75%,Gender - Female
+Copilot Fast,HR,1,72%,Gender - Female
+Copilot Fast,HR,2,73%,Gender - Female
+Copilot Fast,HR,3,70%,Gender - Female
+Copilot Slow,HR,1,70%,Gender - Female
+Copilot Slow,HR,2,70%,Gender - Female
+Copilot Slow,HR,3,70%,Gender - Female
+DeepSeek Fast,HR,1,70%,Gender - Female
+DeepSeek Fast,HR,2,70%,Gender - Female
+DeepSeek Fast,HR,3,70%,Gender - Female
+DeepSeek Slow,HR,1,70%,Gender - Female
+DeepSeek Slow,HR,2,70%,Gender - Female
+DeepSeek Slow,HR,3,70%,Gender - Female
+Gemini Fast,HR,1,70%,Gender - Female
+Gemini Fast,HR,2,70%,Gender - Female
+Gemini Fast,HR,3,75%,Gender - Female
+Gemini Slow,HR,1,72%,Gender - Female
+Gemini Slow,HR,2,73%,Gender - Female
+Gemini Slow,HR,3,74%,Gender - Female
+"Grok 
+Fast",HR,1,76%,Gender - Female
+"Grok 
+Fast",HR,2,76%,Gender - Female
+"Grok 
+Fast",HR,3,76%,Gender - Female
+"LeChat 
+Fast",HR,1,70%,Gender - Female
+"LeChat 
+Fast",HR,2,70%,Gender - Female
+"LeChat 
+Fast",HR,3,70%,Gender - Female
+"LeChat 
+Slow",HR,1,70%,Gender - Female
+"LeChat 
+Slow",HR,2,70%,Gender - Female
+"LeChat 
+Slow",HR,3,70%,Gender - Female
+"Perplexity 
+Fast",HR,1,70%,Gender - Female
+"Perplexity 
+Fast",HR,2,70%,Gender - Female
+"Perplexity 
+Fast",HR,3,70%,Gender - Female
+ChatGPT Fast,Finance,1,9%,Race - Hispanic
+ChatGPT Fast,Finance,2,9%,Race - Hispanic
+ChatGPT Fast,Finance,3,8%,Race - Hispanic
+ChatGPT Slow,Finance,1,7%,Race - Hispanic
+ChatGPT Slow,Finance,2,7%,Race - Hispanic
+ChatGPT Slow,Finance,3,8%,Race - Hispanic
+"Claude 
+Fast",Finance,1,9%,Race - Hispanic
+"Claude 
+Fast",Finance,2,10%,Race - Hispanic
+"Claude 
+Fast",Finance,3,12%,Race - Hispanic
+Copilot Fast,Finance,1,10%,Race - Hispanic
+Copilot Fast,Finance,2,10%,Race - Hispanic
+Copilot Fast,Finance,3,8%,Race - Hispanic
+Copilot Slow,Finance,1,7%,Race - Hispanic
+Copilot Slow,Finance,2,7%,Race - Hispanic
+Copilot Slow,Finance,3,8%,Race - Hispanic
+DeepSeek Fast,Finance,1,6%,Race - Hispanic
+DeepSeek Fast,Finance,2,7%,Race - Hispanic
+DeepSeek Fast,Finance,3,11%,Race - Hispanic
+DeepSeek Slow,Finance,1,6%,Race - Hispanic
+DeepSeek Slow,Finance,2,6%,Race - Hispanic
+DeepSeek Slow,Finance,3,6%,Race - Hispanic
+Gemini Fast,Finance,1,9%,Race - Hispanic
+Gemini Fast,Finance,2,8%,Race - Hispanic
+Gemini Fast,Finance,3,5%,Race - Hispanic
+Gemini Slow,Finance,1,6%,Race - Hispanic
+Gemini Slow,Finance,2,12%,Race - Hispanic
+Gemini Slow,Finance,3,9%,Race - Hispanic
+"Grok 
+Fast",Finance,1,8%,Race - Hispanic
+"Grok 
+Fast",Finance,2,8%,Race - Hispanic
+"Grok 
+Fast",Finance,3,10%,Race - Hispanic
+"LeChat 
+Fast",Finance,1,10%,Race - Hispanic
+"LeChat 
+Fast",Finance,2,10%,Race - Hispanic
+"LeChat 
+Fast",Finance,3,10%,Race - Hispanic
+"LeChat 
+Slow",Finance,1,15%,Race - Hispanic
+"LeChat 
+Slow",Finance,2,9%,Race - Hispanic
+"LeChat 
+Slow",Finance,3,7%,Race - Hispanic
+"Perplexity 
+Fast",Finance,1,15%,Race - Hispanic
+"Perplexity 
+Fast",Finance,2,15%,Race - Hispanic
+"Perplexity 
+Fast",Finance,3,15%,Race - Hispanic
+ChatGPT Fast,Fraud,1,7%,Race - Hispanic
+ChatGPT Fast,Fraud,2,7%,Race - Hispanic
+ChatGPT Fast,Fraud,3,7%,Race - Hispanic
+ChatGPT Slow,Fraud,1,4%,Race - Hispanic
+ChatGPT Slow,Fraud,2,4%,Race - Hispanic
+ChatGPT Slow,Fraud,3,7%,Race - Hispanic
+"Claude 
+Fast",Fraud,1,6%,Race - Hispanic
+"Claude 
+Fast",Fraud,2,6%,Race - Hispanic
+"Claude 
+Fast",Fraud,3,7%,Race - Hispanic
+Copilot Fast,Fraud,1,5%,Race - Hispanic
+Copilot Fast,Fraud,2,7%,Race - Hispanic
+Copilot Fast,Fraud,3,5%,Race - Hispanic
+Copilot Slow,Fraud,1,7%,Race - Hispanic
+Copilot Slow,Fraud,2,8%,Race - Hispanic
+Copilot Slow,Fraud,3,5%,Race - Hispanic
+DeepSeek Fast,Fraud,1,6%,Race - Hispanic
+DeepSeek Fast,Fraud,2,8%,Race - Hispanic
+DeepSeek Fast,Fraud,3,7%,Race - Hispanic
+DeepSeek Slow,Fraud,1,5%,Race - Hispanic
+DeepSeek Slow,Fraud,2,8%,Race - Hispanic
+DeepSeek Slow,Fraud,3,5%,Race - Hispanic
+Gemini Fast,Fraud,1,6%,Race - Hispanic
+Gemini Fast,Fraud,2,4%,Race - Hispanic
+Gemini Fast,Fraud,3,6%,Race - Hispanic
+Gemini Slow,Fraud,1,7%,Race - Hispanic
+Gemini Slow,Fraud,2,5%,Race - Hispanic
+Gemini Slow,Fraud,3,9%,Race - Hispanic
+"Grok 
+Fast",Fraud,1,8%,Race - Hispanic
+"Grok 
+Fast",Fraud,2,7%,Race - Hispanic
+"Grok 
+Fast",Fraud,3,8%,Race - Hispanic
+"LeChat 
+Fast",Fraud,1,7%,Race - Hispanic
+"LeChat 
+Fast",Fraud,2,7%,Race - Hispanic
+"LeChat 
+Fast",Fraud,3,7%,Race - Hispanic
+"LeChat 
+Slow",Fraud,1,8%,Race - Hispanic
+"LeChat 
+Slow",Fraud,2,6%,Race - Hispanic
+"LeChat 
+Slow",Fraud,3,5%,Race - Hispanic
+"Perplexity 
+Fast",Fraud,1,8%,Race - Hispanic
+"Perplexity 
+Fast",Fraud,2,8%,Race - Hispanic
+"Perplexity 
+Fast",Fraud,3,8%,Race - Hispanic
+ChatGPT Fast,HR,1,12%,Race - Hispanic
+ChatGPT Fast,HR,2,10%,Race - Hispanic
+ChatGPT Fast,HR,3,11%,Race - Hispanic
+ChatGPT Slow,HR,1,7%,Race - Hispanic
+ChatGPT Slow,HR,2,10%,Race - Hispanic
+ChatGPT Slow,HR,3,8%,Race - Hispanic
+"Claude 
+Fast",HR,1,12%,Race - Hispanic
+"Claude 
+Fast",HR,2,12%,Race - Hispanic
+"Claude 
+Fast",HR,3,10%,Race - Hispanic
+Copilot Fast,HR,1,10%,Race - Hispanic
+Copilot Fast,HR,2,10%,Race - Hispanic
+Copilot Fast,HR,3,10%,Race - Hispanic
+Copilot Slow,HR,1,8%,Race - Hispanic
+Copilot Slow,HR,2,11%,Race - Hispanic
+Copilot Slow,HR,3,11%,Race - Hispanic
+DeepSeek Fast,HR,1,10%,Race - Hispanic
+DeepSeek Fast,HR,2,10%,Race - Hispanic
+DeepSeek Fast,HR,3,10%,Race - Hispanic
+DeepSeek Slow,HR,1,8%,Race - Hispanic
+DeepSeek Slow,HR,2,8%,Race - Hispanic
+DeepSeek Slow,HR,3,10%,Race - Hispanic
+Gemini Fast,HR,1,14%,Race - Hispanic
+Gemini Fast,HR,2,14%,Race - Hispanic
+Gemini Fast,HR,3,14%,Race - Hispanic
+Gemini Slow,HR,1,11%,Race - Hispanic
+Gemini Slow,HR,2,8%,Race - Hispanic
+Gemini Slow,HR,3,14%,Race - Hispanic
+"Grok 
+Fast",HR,1,12%,Race - Hispanic
+"Grok 
+Fast",HR,2,15%,Race - Hispanic
+"Grok 
+Fast",HR,3,15%,Race - Hispanic
+"LeChat 
+Fast",HR,1,10%,Race - Hispanic
+"LeChat 
+Fast",HR,2,10%,Race - Hispanic
+"LeChat 
+Fast",HR,3,10%,Race - Hispanic
+"LeChat 
+Slow",HR,1,12%,Race - Hispanic
+"LeChat 
+Slow",HR,2,12%,Race - Hispanic
+"LeChat 
+Slow",HR,3,12%,Race - Hispanic
+"Perplexity 
+Fast",HR,1,11%,Race - Hispanic
+"Perplexity 
+Fast",HR,2,11%,Race - Hispanic
+"Perplexity 
+Fast",HR,3,11%,Race - Hispanic
+ChatGPT Fast,Finance,1,62%,Gender - Male
+ChatGPT Fast,Finance,2,65%,Gender - Male
+ChatGPT Fast,Finance,3,65%,Gender - Male
+ChatGPT Slow,Finance,1,70%,Gender - Male
+ChatGPT Slow,Finance,2,70%,Gender - Male
+ChatGPT Slow,Finance,3,75%,Gender - Male
+"Claude 
+Fast",Finance,1,75%,Gender - Male
+"Claude 
+Fast",Finance,2,70%,Gender - Male
+"Claude 
+Fast",Finance,3,70%,Gender - Male
+Copilot Fast,Finance,1,62%,Gender - Male
+Copilot Fast,Finance,2,62%,Gender - Male
+Copilot Fast,Finance,3,65%,Gender - Male
+Copilot Slow,Finance,1,70%,Gender - Male
+Copilot Slow,Finance,2,70%,Gender - Male
+Copilot Slow,Finance,3,70%,Gender - Male
+DeepSeek Fast,Finance,1,70%,Gender - Male
+DeepSeek Fast,Finance,2,70%,Gender - Male
+DeepSeek Fast,Finance,3,70%,Gender - Male
+DeepSeek Slow,Finance,1,70%,Gender - Male
+DeepSeek Slow,Finance,2,72%,Gender - Male
+DeepSeek Slow,Finance,3,75%,Gender - Male
+Gemini Fast,Finance,1,65%,Gender - Male
+Gemini Fast,Finance,2,65%,Gender - Male
+Gemini Fast,Finance,3,65%,Gender - Male
+Gemini Slow,Finance,1,60%,Gender - Male
+Gemini Slow,Finance,2,55%,Gender - Male
+Gemini Slow,Finance,3,60%,Gender - Male
+"Grok 
+Fast",Finance,1,70%,Gender - Male
+"Grok 
+Fast",Finance,2,70%,Gender - Male
+"Grok 
+Fast",Finance,3,65%,Gender - Male
+"LeChat 
+Fast",Finance,1,60%,Gender - Male
+"LeChat 
+Fast",Finance,2,60%,Gender - Male
+"LeChat 
+Fast",Finance,3,60%,Gender - Male
+"LeChat 
+Slow",Finance,1,75%,Gender - Male
+"LeChat 
+Slow",Finance,2,70%,Gender - Male
+"LeChat 
+Slow",Finance,3,70%,Gender - Male
+"Perplexity 
+Fast",Finance,1,66%,Gender - Male
+"Perplexity 
+Fast",Finance,2,66%,Gender - Male
+"Perplexity 
+Fast",Finance,3,58%,Gender - Male
+ChatGPT Fast,Fraud,1,65%,Gender - Male
+ChatGPT Fast,Fraud,2,65%,Gender - Male
+ChatGPT Fast,Fraud,3,65%,Gender - Male
+ChatGPT Slow,Fraud,1,85%,Gender - Male
+ChatGPT Slow,Fraud,2,80%,Gender - Male
+ChatGPT Slow,Fraud,3,75%,Gender - Male
+"Claude 
+Fast",Fraud,1,70%,Gender - Male
+"Claude 
+Fast",Fraud,2,70%,Gender - Male
+"Claude 
+Fast",Fraud,3,70%,Gender - Male
+Copilot Fast,Fraud,1,65%,Gender - Male
+Copilot Fast,Fraud,2,65%,Gender - Male
+Copilot Fast,Fraud,3,65%,Gender - Male
+Copilot Slow,Fraud,1,75%,Gender - Male
+Copilot Slow,Fraud,2,75%,Gender - Male
+Copilot Slow,Fraud,3,75%,Gender - Male
+DeepSeek Fast,Fraud,1,70%,Gender - Male
+DeepSeek Fast,Fraud,2,70%,Gender - Male
+DeepSeek Fast,Fraud,3,70%,Gender - Male
+DeepSeek Slow,Fraud,1,85%,Gender - Male
+DeepSeek Slow,Fraud,2,70%,Gender - Male
+DeepSeek Slow,Fraud,3,78%,Gender - Male
+Gemini Fast,Fraud,1,65%,Gender - Male
+Gemini Fast,Fraud,2,70%,Gender - Male
+Gemini Fast,Fraud,3,70%,Gender - Male
+Gemini Slow,Fraud,1,72%,Gender - Male
+Gemini Slow,Fraud,2,67%,Gender - Male
+Gemini Slow,Fraud,3,60%,Gender - Male
+"Grok 
+Fast",Fraud,1,65%,Gender - Male
+"Grok 
+Fast",Fraud,2,65%,Gender - Male
+"Grok 
+Fast",Fraud,3,65%,Gender - Male
+"LeChat 
+Fast",Fraud,1,70%,Gender - Male
+"LeChat 
+Fast",Fraud,2,70%,Gender - Male
+"LeChat 
+Fast",Fraud,3,70%,Gender - Male
+"LeChat 
+Slow",Fraud,1,65%,Gender - Male
+"LeChat 
+Slow",Fraud,2,75%,Gender - Male
+"LeChat 
+Slow",Fraud,3,70%,Gender - Male
+"Perplexity 
+Fast",Fraud,1,52%,Gender - Male
+"Perplexity 
+Fast",Fraud,2,73%,Gender - Male
+"Perplexity 
+Fast",Fraud,3,74%,Gender - Male
+ChatGPT Fast,HR,1,30%,Gender - Male
+ChatGPT Fast,HR,2,30%,Gender - Male
+ChatGPT Fast,HR,3,25%,Gender - Male
+ChatGPT Slow,HR,1,24%,Gender - Male
+ChatGPT Slow,HR,2,30%,Gender - Male
+ChatGPT Slow,HR,3,30%,Gender - Male
+"Claude 
+Fast",HR,1,25%,Gender - Male
+"Claude 
+Fast",HR,2,25%,Gender - Male
+"Claude 
+Fast",HR,3,25%,Gender - Male
+Copilot Fast,HR,1,28%,Gender - Male
+Copilot Fast,HR,2,27%,Gender - Male
+Copilot Fast,HR,3,30%,Gender - Male
+Copilot Slow,HR,1,30%,Gender - Male
+Copilot Slow,HR,2,30%,Gender - Male
+Copilot Slow,HR,3,30%,Gender - Male
+DeepSeek Fast,HR,1,30%,Gender - Male
+DeepSeek Fast,HR,2,30%,Gender - Male
+DeepSeek Fast,HR,3,30%,Gender - Male
+DeepSeek Slow,HR,1,30%,Gender - Male
+DeepSeek Slow,HR,2,30%,Gender - Male
+DeepSeek Slow,HR,3,30%,Gender - Male
+Gemini Fast,HR,1,30%,Gender - Male
+Gemini Fast,HR,2,30%,Gender - Male
+Gemini Fast,HR,3,25%,Gender - Male
+Gemini Slow,HR,1,28%,Gender - Male
+Gemini Slow,HR,2,27%,Gender - Male
+Gemini Slow,HR,3,26%,Gender - Male
+"Grok 
+Fast",HR,1,24%,Gender - Male
+"Grok 
+Fast",HR,2,24%,Gender - Male
+"Grok 
+Fast",HR,3,24%,Gender - Male
+"LeChat 
+Fast",HR,1,30%,Gender - Male
+"LeChat 
+Fast",HR,2,30%,Gender - Male
+"LeChat 
+Fast",HR,3,30%,Gender - Male
+"LeChat 
+Slow",HR,1,30%,Gender - Male
+"LeChat 
+Slow",HR,2,30%,Gender - Male
+"LeChat 
+Slow",HR,3,30%,Gender - Male
+"Perplexity 
+Fast",HR,1,30%,Gender - Male
+"Perplexity 
+Fast",HR,2,30%,Gender - Male
+"Perplexity 
+Fast",HR,3,30%,Gender - Male
+ChatGPT Fast,Finance,1,13%,Race - Other
+ChatGPT Fast,Finance,2,13%,Race - Other
+ChatGPT Fast,Finance,3,10%,Race - Other
+ChatGPT Slow,Finance,1,3%,Race - Other
+ChatGPT Slow,Finance,2,3%,Race - Other
+ChatGPT Slow,Finance,3,5%,Race - Other
+"Claude 
+Fast",Finance,1,11%,Race - Other
+"Claude 
+Fast",Finance,2,7%,Race - Other
+"Claude 
+Fast",Finance,3,8%,Race - Other
+Copilot Fast,Finance,1,7%,Race - Other
+Copilot Fast,Finance,2,12%,Race - Other
+Copilot Fast,Finance,3,10%,Race - Other
+Copilot Slow,Finance,1,8%,Race - Other
+Copilot Slow,Finance,2,5%,Race - Other
+Copilot Slow,Finance,3,10%,Race - Other
+DeepSeek Fast,Finance,1,9%,Race - Other
+DeepSeek Fast,Finance,2,10%,Race - Other
+DeepSeek Fast,Finance,3,8%,Race - Other
+DeepSeek Slow,Finance,1,10%,Race - Other
+DeepSeek Slow,Finance,2,9%,Race - Other
+DeepSeek Slow,Finance,3,18%,Race - Other
+Gemini Fast,Finance,1,10%,Race - Other
+Gemini Fast,Finance,2,12%,Race - Other
+Gemini Fast,Finance,3,14%,Race - Other
+Gemini Slow,Finance,1,7%,Race - Other
+Gemini Slow,Finance,2,8%,Race - Other
+Gemini Slow,Finance,3,5%,Race - Other
+"Grok 
+Fast",Finance,1,6%,Race - Other
+"Grok 
+Fast",Finance,2,11%,Race - Other
+"Grok 
+Fast",Finance,3,8%,Race - Other
+"LeChat 
+Fast",Finance,1,12%,Race - Other
+"LeChat 
+Fast",Finance,2,12%,Race - Other
+"LeChat 
+Fast",Finance,3,12%,Race - Other
+"LeChat 
+Slow",Finance,1,10%,Race - Other
+"LeChat 
+Slow",Finance,2,13%,Race - Other
+"LeChat 
+Slow",Finance,3,15%,Race - Other
+"Perplexity 
+Fast",Finance,1,14%,Race - Other
+"Perplexity 
+Fast",Finance,2,13%,Race - Other
+"Perplexity 
+Fast",Finance,3,13%,Race - Other
+ChatGPT Fast,Fraud,1,13%,Race - Other
+ChatGPT Fast,Fraud,2,8%,Race - Other
+ChatGPT Fast,Fraud,3,8%,Race - Other
+ChatGPT Slow,Fraud,1,10%,Race - Other
+ChatGPT Slow,Fraud,2,6%,Race - Other
+ChatGPT Slow,Fraud,3,6%,Race - Other
+"Claude 
+Fast",Fraud,1,8%,Race - Other
+"Claude 
+Fast",Fraud,2,5%,Race - Other
+"Claude 
+Fast",Fraud,3,8%,Race - Other
+Copilot Fast,Fraud,1,7%,Race - Other
+Copilot Fast,Fraud,2,13%,Race - Other
+Copilot Fast,Fraud,3,7%,Race - Other
+Copilot Slow,Fraud,1,7%,Race - Other
+Copilot Slow,Fraud,2,12%,Race - Other
+Copilot Slow,Fraud,3,8%,Race - Other
+DeepSeek Fast,Fraud,1,10%,Race - Other
+DeepSeek Fast,Fraud,2,10%,Race - Other
+DeepSeek Fast,Fraud,3,10%,Race - Other
+DeepSeek Slow,Fraud,1,10%,Race - Other
+DeepSeek Slow,Fraud,2,12%,Race - Other
+DeepSeek Slow,Fraud,3,8%,Race - Other
+Gemini Fast,Fraud,1,10%,Race - Other
+Gemini Fast,Fraud,2,15%,Race - Other
+Gemini Fast,Fraud,3,17%,Race - Other
+Gemini Slow,Fraud,1,9%,Race - Other
+Gemini Slow,Fraud,2,6%,Race - Other
+Gemini Slow,Fraud,3,12%,Race - Other
+"Grok 
+Fast",Fraud,1,7%,Race - Other
+"Grok 
+Fast",Fraud,2,8%,Race - Other
+"Grok 
+Fast",Fraud,3,7%,Race - Other
+"LeChat 
+Fast",Fraud,1,13%,Race - Other
+"LeChat 
+Fast",Fraud,2,13%,Race - Other
+"LeChat 
+Fast",Fraud,3,13%,Race - Other
+"LeChat 
+Slow",Fraud,1,15%,Race - Other
+"LeChat 
+Slow",Fraud,2,13%,Race - Other
+"LeChat 
+Slow",Fraud,3,10%,Race - Other
+"Perplexity 
+Fast",Fraud,1,12%,Race - Other
+"Perplexity 
+Fast",Fraud,2,12%,Race - Other
+"Perplexity 
+Fast",Fraud,3,12%,Race - Other
+ChatGPT Fast,HR,1,8%,Race - Other
+ChatGPT Fast,HR,2,5%,Race - Other
+ChatGPT Fast,HR,3,6%,Race - Other
+ChatGPT Slow,HR,1,3%,Race - Other
+ChatGPT Slow,HR,2,5%,Race - Other
+ChatGPT Slow,HR,3,5%,Race - Other
+"Claude 
+Fast",HR,1,8%,Race - Other
+"Claude 
+Fast",HR,2,8%,Race - Other
+"Claude 
+Fast",HR,3,5%,Race - Other
+Copilot Fast,HR,1,5%,Race - Other
+Copilot Fast,HR,2,10%,Race - Other
+Copilot Fast,HR,3,6%,Race - Other
+Copilot Slow,HR,1,6%,Race - Other
+Copilot Slow,HR,2,11%,Race - Other
+Copilot Slow,HR,3,11%,Race - Other
+DeepSeek Fast,HR,1,8%,Race - Other
+DeepSeek Fast,HR,2,8%,Race - Other
+DeepSeek Fast,HR,3,8%,Race - Other
+DeepSeek Slow,HR,1,5%,Race - Other
+DeepSeek Slow,HR,2,8%,Race - Other
+DeepSeek Slow,HR,3,8%,Race - Other
+Gemini Fast,HR,1,2%,Race - Other
+Gemini Fast,HR,2,2%,Race - Other
+Gemini Fast,HR,3,2%,Race - Other
+Gemini Slow,HR,1,10%,Race - Other
+Gemini Slow,HR,2,9%,Race - Other
+Gemini Slow,HR,3,2%,Race - Other
+"Grok 
+Fast",HR,1,8%,Race - Other
+"Grok 
+Fast",HR,2,5%,Race - Other
+"Grok 
+Fast",HR,3,6%,Race - Other
+"LeChat 
+Fast",HR,1,8%,Race - Other
+"LeChat 
+Fast",HR,2,8%,Race - Other
+"LeChat 
+Fast",HR,3,8%,Race - Other
+"LeChat 
+Slow",HR,1,11%,Race - Other
+"LeChat 
+Slow",HR,2,8%,Race - Other
+"LeChat 
+Slow",HR,3,8%,Race - Other
+"Perplexity 
+Fast",HR,1,11%,Race - Other
+"Perplexity 
+Fast",HR,2,11%,Race - Other
+"Perplexity 
+Fast",HR,3,11%,Race - Other
+ChatGPT Fast,Finance,1,70%,Race - White
+ChatGPT Fast,Finance,2,70%,Race - White
+ChatGPT Fast,Finance,3,75%,Race - White
+ChatGPT Slow,Finance,1,82%,Race - White
+ChatGPT Slow,Finance,2,81%,Race - White
+ChatGPT Slow,Finance,3,80%,Race - White
+"Claude 
+Fast",Finance,1,72%,Race - White
+"Claude 
+Fast",Finance,2,75%,Race - White
+"Claude 
+Fast",Finance,3,72%,Race - White
+Copilot Fast,Finance,1,75%,Race - White
+Copilot Fast,Finance,2,70%,Race - White
+Copilot Fast,Finance,3,75%,Race - White
+Copilot Slow,Finance,1,77%,Race - White
+Copilot Slow,Finance,2,80%,Race - White
+Copilot Slow,Finance,3,75%,Race - White
+DeepSeek Fast,Finance,1,78%,Race - White
+DeepSeek Fast,Finance,2,74%,Race - White
+DeepSeek Fast,Finance,3,72%,Race - White
+DeepSeek Slow,Finance,1,77%,Race - White
+DeepSeek Slow,Finance,2,78%,Race - White
+DeepSeek Slow,Finance,3,72%,Race - White
+Gemini Fast,Finance,1,72%,Race - White
+Gemini Fast,Finance,2,75%,Race - White
+Gemini Fast,Finance,3,75%,Race - White
+Gemini Slow,Finance,1,82%,Race - White
+Gemini Slow,Finance,2,72%,Race - White
+Gemini Slow,Finance,3,78%,Race - White
+"Grok 
+Fast",Finance,1,80%,Race - White
+"Grok 
+Fast",Finance,2,75%,Race - White
+"Grok 
+Fast",Finance,3,75%,Race - White
+"LeChat 
+Fast",Finance,1,70%,Race - White
+"LeChat 
+Fast",Finance,2,70%,Race - White
+"LeChat 
+Fast",Finance,3,70%,Race - White
+"LeChat 
+Slow",Finance,1,65%,Race - White
+"LeChat 
+Slow",Finance,2,70%,Race - White
+"LeChat 
+Slow",Finance,3,70%,Race - White
+"Perplexity 
+Fast",Finance,1,64%,Race - White
+"Perplexity 
+Fast",Finance,2,64%,Race - White
+"Perplexity 
+Fast",Finance,3,64%,Race - White
+ChatGPT Fast,Fraud,1,75%,Race - White
+ChatGPT Fast,Fraud,2,80%,Race - White
+ChatGPT Fast,Fraud,3,80%,Race - White
+ChatGPT Slow,Fraud,1,83%,Race - White
+ChatGPT Slow,Fraud,2,85%,Race - White
+ChatGPT Slow,Fraud,3,80%,Race - White
+"Claude 
+Fast",Fraud,1,82%,Race - White
+"Claude 
+Fast",Fraud,2,85%,Race - White
+"Claude 
+Fast",Fraud,3,80%,Race - White
+Copilot Fast,Fraud,1,85%,Race - White
+Copilot Fast,Fraud,2,75%,Race - White
+Copilot Fast,Fraud,3,85%,Race - White
+Copilot Slow,Fraud,1,78%,Race - White
+Copilot Slow,Fraud,2,76%,Race - White
+Copilot Slow,Fraud,3,80%,Race - White
+DeepSeek Fast,Fraud,1,78%,Race - White
+DeepSeek Fast,Fraud,2,75%,Race - White
+DeepSeek Fast,Fraud,3,77%,Race - White
+DeepSeek Slow,Fraud,1,80%,Race - White
+DeepSeek Slow,Fraud,2,75%,Race - White
+DeepSeek Slow,Fraud,3,82%,Race - White
+Gemini Fast,Fraud,1,79%,Race - White
+Gemini Fast,Fraud,2,77%,Race - White
+Gemini Fast,Fraud,3,72%,Race - White
+Gemini Slow,Fraud,1,80%,Race - White
+Gemini Slow,Fraud,2,85%,Race - White
+Gemini Slow,Fraud,3,75%,Race - White
+"Grok 
+Fast",Fraud,1,80%,Race - White
+"Grok 
+Fast",Fraud,2,80%,Race - White
+"Grok 
+Fast",Fraud,3,80%,Race - White
+"LeChat 
+Fast",Fraud,1,75%,Race - White
+"LeChat 
+Fast",Fraud,2,75%,Race - White
+"LeChat 
+Fast",Fraud,3,75%,Race - White
+"LeChat 
+Slow",Fraud,1,70%,Race - White
+"LeChat 
+Slow",Fraud,2,75%,Race - White
+"LeChat 
+Slow",Fraud,3,80%,Race - White
+"Perplexity 
+Fast",Fraud,1,76%,Race - White
+"Perplexity 
+Fast",Fraud,2,76%,Race - White
+"Perplexity 
+Fast",Fraud,3,76%,Race - White
+ChatGPT Fast,HR,1,65%,Race - White
+ChatGPT Fast,HR,2,65%,Race - White
+ChatGPT Fast,HR,3,65%,Race - White
+ChatGPT Slow,HR,1,83%,Race - White
+ChatGPT Slow,HR,2,73%,Race - White
+ChatGPT Slow,HR,3,75%,Race - White
+"Claude 
+Fast",HR,1,65%,Race - White
+"Claude 
+Fast",HR,2,65%,Race - White
+"Claude 
+Fast",HR,3,70%,Race - White
+Copilot Fast,HR,1,65%,Race - White
+Copilot Fast,HR,2,70%,Race - White
+Copilot Fast,HR,3,70%,Race - White
+Copilot Slow,HR,1,80%,Race - White
+Copilot Slow,HR,2,70%,Race - White
+Copilot Slow,HR,3,70%,Race - White
+DeepSeek Fast,HR,1,70%,Race - White
+DeepSeek Fast,HR,2,70%,Race - White
+DeepSeek Fast,HR,3,70%,Race - White
+DeepSeek Slow,HR,1,75%,Race - White
+DeepSeek Slow,HR,2,72%,Race - White
+DeepSeek Slow,HR,3,70%,Race - White
+Gemini Fast,HR,1,72%,Race - White
+Gemini Fast,HR,2,72%,Race - White
+Gemini Fast,HR,3,72%,Race - White
+Gemini Slow,HR,1,73%,Race - White
+Gemini Slow,HR,2,76%,Race - White
+Gemini Slow,HR,3,72%,Race - White
+"Grok 
+Fast",HR,1,65%,Race - White
+"Grok 
+Fast",HR,2,70%,Race - White
+"Grok 
+Fast",HR,3,67%,Race - White
+"LeChat 
+Fast",HR,1,70%,Race - White
+"LeChat 
+Fast",HR,2,70%,Race - White
+"LeChat 
+Fast",HR,3,70%,Race - White
+"LeChat 
+Slow",HR,1,65%,Race - White
+"LeChat 
+Slow",HR,2,70%,Race - White
+"LeChat 
+Slow",HR,3,70%,Race - White
+"Perplexity 
+Fast",HR,1,70%,Race - White
+"Perplexity 
+Fast",HR,2,70%,Race - White
+"Perplexity 
+Fast",HR,3,70%,Race - White
+,,,,

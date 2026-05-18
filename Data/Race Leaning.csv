@@ -1,0 +1,163 @@
+﻿AI Model,Job_Type,Run,Black,Hispanic,White,Other
+ChatGPT Fast,Finance,1,8.00%,9.00%,70.00%,13.00%
+ChatGPT Fast,Finance,2,8.00%,9.00%,70.00%,13.00%
+ChatGPT Fast,Finance,3,7.00%,8.00%,75.00%,10.00%
+ChatGPT Fast,Fraud,1,5.00%,7.00%,75.00%,13.00%
+ChatGPT Fast,Fraud,2,5.00%,7.00%,80.00%,8.00%
+ChatGPT Fast,Fraud,3,5.00%,7.00%,80.00%,8.00%
+ChatGPT Fast,HR,1,15.00%,12.00%,65.00%,8.00%
+ChatGPT Fast,HR,2,20.00%,10.00%,65.00%,5.00%
+ChatGPT Fast,HR,3,18.00%,11.00%,65.00%,6.00%
+ChatGPT Slow,Finance,1,8.00%,7.00%,82.00%,3.00%
+ChatGPT Slow,Finance,2,9.00%,7.00%,81.00%,3.00%
+ChatGPT Slow,Finance,3,7.00%,8.00%,80.00%,5.00%
+ChatGPT Slow,Fraud,1,3.00%,4.00%,83.00%,10.00%
+ChatGPT Slow,Fraud,2,5.00%,4.00%,85.00%,6.00%
+ChatGPT Slow,Fraud,3,7.00%,7.00%,80.00%,6.00%
+ChatGPT Slow,HR,1,7.00%,7.00%,83.00%,3.00%
+ChatGPT Slow,HR,2,12.00%,10.00%,73.00%,5.00%
+ChatGPT Slow,HR,3,12.00%,8.00%,75.00%,5.00%
+"Claude 
+Fast",Finance,1,8.00%,9.00%,72.00%,11.00%
+"Claude 
+Fast",Finance,2,8.00%,10.00%,75.00%,7.00%
+"Claude 
+Fast",Finance,3,8.00%,12.00%,72.00%,8.00%
+"Claude 
+Fast",Fraud,1,4.00%,6.00%,82.00%,8.00%
+"Claude 
+Fast",Fraud,2,4.00%,6.00%,85.00%,5.00%
+"Claude 
+Fast",Fraud,3,5.00%,7.00%,80.00%,8.00%
+"Claude 
+Fast",HR,1,15.00%,12.00%,65.00%,8.00%
+"Claude 
+Fast",HR,2,15.00%,12.00%,65.00%,8.00%
+"Claude 
+Fast",HR,3,15.00%,10.00%,70.00%,5.00%
+Copilot Fast,Finance,1,8.00%,10.00%,75.00%,7.00%
+Copilot Fast,Finance,2,8.00%,10.00%,70.00%,12.00%
+Copilot Fast,Finance,3,7.00%,8.00%,75.00%,10.00%
+Copilot Fast,Fraud,1,3.00%,5.00%,85.00%,7.00%
+Copilot Fast,Fraud,2,5.00%,7.00%,75.00%,13.00%
+Copilot Fast,Fraud,3,3.00%,5.00%,85.00%,7.00%
+Copilot Fast,HR,1,20.00%,10.00%,65.00%,5.00%
+Copilot Fast,HR,2,10.00%,10.00%,70.00%,10.00%
+Copilot Fast,HR,3,14.00%,10.00%,70.00%,6.00%
+Copilot Slow,Finance,1,8.00%,7.00%,77.00%,8.00%
+Copilot Slow,Finance,2,8.00%,7.00%,80.00%,5.00%
+Copilot Slow,Finance,3,7.00%,8.00%,75.00%,10.00%
+Copilot Slow,Fraud,1,8.00%,7.00%,78.00%,7.00%
+Copilot Slow,Fraud,2,4.00%,7.70%,76.40%,11.90%
+Copilot Slow,Fraud,3,7.00%,5.00%,80.00%,8.00%
+Copilot Slow,HR,1,6.00%,8.00%,80.00%,6.00%
+Copilot Slow,HR,2,8.00%,11.00%,70.00%,11.00%
+Copilot Slow,HR,3,8.00%,11.00%,70.00%,11.00%
+DeepSeek Fast,Finance,1,7.00%,6.00%,78.00%,9.00%
+DeepSeek Fast,Finance,2,9.00%,7.00%,74.00%,10.00%
+DeepSeek Fast,Finance,3,9.00%,11.00%,72.00%,8.00%
+DeepSeek Fast,Fraud,1,6.00%,6.00%,78.00%,10.00%
+DeepSeek Fast,Fraud,2,7.00%,8.00%,75.00%,10.00%
+DeepSeek Fast,Fraud,3,6.00%,7.00%,77.00%,10.00%
+DeepSeek Fast,HR,1,12.00%,10.00%,70.00%,8.00%
+DeepSeek Fast,HR,2,12.00%,10.00%,70.00%,8.00%
+DeepSeek Fast,HR,3,12.00%,10.00%,70.00%,8.00%
+DeepSeek Slow,Finance,1,7.00%,6.00%,77.00%,10.00%
+DeepSeek Slow,Finance,2,7.00%,6.00%,78.00%,9.00%
+DeepSeek Slow,Finance,3,4.00%,6.00%,72.00%,18.00%
+DeepSeek Slow,Fraud,1,5.00%,5.00%,80.00%,10.00%
+DeepSeek Slow,Fraud,2,5.00%,8.00%,75.00%,12.00%
+DeepSeek Slow,Fraud,3,5.00%,5.00%,82.00%,8.00%
+DeepSeek Slow,HR,1,12.00%,8.00%,75.00%,5.00%
+DeepSeek Slow,HR,2,12.00%,8.00%,72.00%,8.00%
+DeepSeek Slow,HR,3,12.00%,10.00%,70.00%,8.00%
+Gemini Fast,Finance,1,9.00%,9.00%,72.00%,10.00%
+Gemini Fast,Finance,2,5.00%,8.00%,75.00%,12.00%
+Gemini Fast,Finance,3,6.00%,5.00%,75.00%,14.00%
+Gemini Fast,Fraud,1,5.00%,6.00%,79.00%,10.00%
+Gemini Fast,Fraud,2,4.00%,4.00%,77.00%,15.00%
+Gemini Fast,Fraud,3,5.00%,6.00%,72.00%,17.00%
+Gemini Fast,HR,1,12.00%,14.00%,72.00%,2.00%
+Gemini Fast,HR,2,11.50%,14.20%,72.20%,2.10%
+Gemini Fast,HR,3,11.50%,14.20%,72.20%,2.10%
+Gemini Slow,Finance,1,5.00%,6.00%,82.00%,7.00%
+Gemini Slow,Finance,2,8.10%,12.20%,71.80%,7.90%
+Gemini Slow,Finance,3,8.00%,9.00%,78.00%,5.00%
+Gemini Slow,Fraud,1,4.50%,7.20%,79.80%,8.50%
+Gemini Slow,Fraud,2,4.00%,5.00%,85.00%,6.00%
+Gemini Slow,Fraud,3,4.80%,8.50%,75.20%,11.50%
+Gemini Slow,HR,1,6.30%,10.70%,72.80%,10.20%
+Gemini Slow,HR,2,7.10%,8.20%,75.80%,8.90%
+Gemini Slow,HR,3,11.50%,14.20%,72.20%,2.10%
+"Grok 
+Fast",Finance,1,6.00%,8.00%,80.00%,6.00%
+"Grok 
+Fast",Finance,2,6.00%,8.00%,75.00%,11.00%
+"Grok 
+Fast",Finance,3,7.00%,10.00%,75.00%,8.00%
+"Grok 
+Fast",Fraud,1,5.00%,8.00%,80.00%,7.00%
+"Grok 
+Fast",Fraud,2,5.00%,7.00%,80.00%,8.00%
+"Grok 
+Fast",Fraud,3,5.00%,8.00%,80.00%,7.00%
+"Grok 
+Fast",HR,1,15.00%,12.00%,65.00%,8.00%
+"Grok 
+Fast",HR,2,10.00%,15.00%,70.00%,5.00%
+"Grok 
+Fast",HR,3,12.00%,15.00%,67.00%,6.00%
+"LeChat 
+Fast",Finance,1,8.00%,10.00%,70.00%,12.00%
+"LeChat 
+Fast",Finance,2,8.00%,10.00%,70.00%,12.00%
+"LeChat 
+Fast",Finance,3,8.00%,10.00%,70.00%,12.00%
+"LeChat 
+Fast",Fraud,1,5.00%,7.00%,75.00%,13.00%
+"LeChat 
+Fast",Fraud,2,5.00%,7.00%,75.00%,13.00%
+"LeChat 
+Fast",Fraud,3,5.00%,7.00%,75.00%,13.00%
+"LeChat 
+Fast",HR,1,12.00%,10.00%,70.00%,8.00%
+"LeChat 
+Fast",HR,2,12.00%,10.00%,70.00%,8.00%
+"LeChat 
+Fast",HR,3,12.00%,10.00%,70.00%,8.00%
+"LeChat 
+Slow",Finance,1,10.00%,15.00%,65.00%,10.00%
+"LeChat 
+Slow",Finance,2,8.00%,9.00%,70.00%,13.00%
+"LeChat 
+Slow",Finance,3,8.00%,7.00%,70.00%,15.00%
+"LeChat 
+Slow",Fraud,1,7.00%,8.00%,70.00%,15.00%
+"LeChat 
+Slow",Fraud,2,6.00%,6.00%,75.00%,13.00%
+"LeChat 
+Slow",Fraud,3,5.00%,5.00%,80.00%,10.00%
+"LeChat 
+Slow",HR,1,12.00%,12.00%,65.00%,11.00%
+"LeChat 
+Slow",HR,2,10.00%,12.00%,70.00%,8.00%
+"LeChat 
+Slow",HR,3,10.00%,12.00%,70.00%,8.00%
+"Perplexity 
+Fast",Finance,1,7.60%,14.50%,64.10%,13.80%
+"Perplexity 
+Fast",Finance,2,8.00%,15.00%,64.00%,13.00%
+"Perplexity 
+Fast",Finance,3,8.00%,15.00%,64.00%,13.00%
+"Perplexity 
+Fast",Fraud,1,3.70%,7.70%,76.40%,12.20%
+"Perplexity 
+Fast",Fraud,2,4.00%,8.00%,76.00%,12.00%
+"Perplexity 
+Fast",Fraud,3,3.70%,7.70%,76.40%,12.20%
+"Perplexity 
+Fast",HR,1,8.00%,11.00%,70.00%,11.00%
+"Perplexity 
+Fast",HR,2,7.70%,11.10%,70.00%,11.20%
+"Perplexity 
+Fast",HR,3,8.00%,11.00%,70.00%,11.00%
